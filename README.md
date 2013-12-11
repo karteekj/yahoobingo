@@ -1,0 +1,4 @@
+yahoobingo
+==========
+
+Yahoo bingo client
